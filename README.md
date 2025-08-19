@@ -1,34 +1,42 @@
-# Chess system
+# ♟️ Chess System - Jogo de Xadrez em Java
 
-## 📖 Descrição
+## 📌 Descrição 
+Aplicação em terminal que implementa um jogo de xadrez, com foco em lógica e programação orientada a objetos.
 
-Este projeto é um jogo de xadrez desenvolvido em Java, executado no terminal.
+## 🔧 Tecnologias
+- Java 17+
+- Programação Orientada a Objetos
+- Matrizes e arrays
+- Tratamento de exceções
 
-Ele implementa toda a lógica do jogo: representação das peças e do tabuleiro, validação de jogadas, detecção de xeque e xeque-mate, garantindo o cumprimento das regras oficiais do xadrez.
+## ▶️ Como Executar
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/Juka-coder/chess-system-java.git
+   cd chess-system-java
+3. Compile o projeto:
+   ```bash
+   javac src/application/Program.java
+4. Execute:
+   ```bash
+   java -cp src application.Program
 
-O foco está no back-end do jogo, servindo como base sólida para estudo de orientação a objetos, estruturas de dados e lógica de programação em Java.
+## 🎯 Aprendizados
+- Estruturação de código com **POO**
+- Modelagem de entidades (tabuleiro, peças, movimentos)
+- Implementação de regras de negócio (xeque, xeque-mate, jogadas inválidas)
+- Uso de exceções para validar entradas
 
----
+## 📂 Estrutura do Projeto
+src/  
+ └── application/  
+      └── Program.java   # Classe principal  
+ └── boardgame/          # Classes de tabuleiro e posições  
+ └── chess/              # Classes específicas de xadrez (peças e regras)  
 
-## 🔧 Tecnologias Utilizadas
+## 👤 Autor
+**João Daniel (Juka-coder)**  
+[LinkedIn](www.linkedin.com/in/joão-daniel2) | [GitHub](https://github.com/Juka-coder)
 
-- Java 24
-- POO [Programação Orientada a Objetos]
-- IDE: IntelliJ
-
----
-
-## 📒 Aprendizados
-
-- Estrutura de código orientado a objetos
-- Modelagem de entidades
-- Manipulação de matrizes
-
----
-
-## 🚀 Como Executar
-
-1. Clone o repositório:
-    
-    git clone <https://github.com/Juka-coder/chess-system-java/>
-  
+## 📜 Licença
+Este projeto é de uso educacional, desenvolvido para fins de estudo.

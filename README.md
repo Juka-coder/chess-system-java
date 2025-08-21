@@ -36,7 +36,7 @@ src/
 
 ## 👤 Autor
 **João Daniel (Juka-coder)**  
-[LinkedIn]([www.linkedin.com/in/joão-daniel2](https://www.linkedin.com/in/jo%C3%A3o-daniel2/)) | [GitHub](https://github.com/Juka-coder)
+[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-daniel2/) | [GitHub](https://github.com/Juka-coder)
 
 ## 📜 Licença
 Este projeto é de uso educacional, desenvolvido para fins de estudo.
